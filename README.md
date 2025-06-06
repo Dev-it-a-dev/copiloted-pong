@@ -6,7 +6,7 @@ This project hosts a web version of the classic Pong game, enhanced and maintain
 
 ## 🚀 Live Site
 
-Access the game here: [Dev-it-a-dev.copiloted-pong.github.io](https://dev-it-a-dev.github.io/Dev-it-a-dev.copiloted-pong.github.io/)
+Access the game here: [Copiloted Pong](https://dev-it-a-dev.github.io/copiloted-pong/)
 
 ## 🕹️ Features
 
